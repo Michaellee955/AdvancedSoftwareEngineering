@@ -34,4 +34,8 @@ public class human {
         System.out.println("working...");
     }
 
+    Public void full(){
+        System.out.println("I am full");
+    }
+
 }
